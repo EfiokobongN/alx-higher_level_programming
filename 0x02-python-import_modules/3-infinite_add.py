@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from sys import argv
 add = 0
 for s in argv[1:]:
