@@ -3,13 +3,13 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s - singly linked list
- * @n: integer
- * @next: points to the next node
+ * struct listint_s - Struct singly linked list.
+ * @n: Integer value stored in node.
+ * @next: Pointer next node.
  *
- * Description: singly linked list node structure
- * 
+ * Description: Defines node in singly linked list.
  */
+
 typedef struct listint_s
 {
     int n;
